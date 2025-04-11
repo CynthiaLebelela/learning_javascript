@@ -1,4 +1,4 @@
-//Conditional Statements & Loops
+//statements
 const out = document.getElementById("output");
 const br = "<br>";
 
